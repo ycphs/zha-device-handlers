@@ -1640,6 +1640,8 @@ class MoesHY368_Type2(TuyaThermostat):
             ("_TYST11_ywdxldoj", "wdxldoj"),
             ("_TYST11_cwnjrr72", "wnjrr72"),
             ("_TYST11_2atgpdho", "atgpdho"),
+             ("_TZE200_6rdj8dzm", "rdj8dzm"),
+            
         ],
         ENDPOINTS: {
             1: {
